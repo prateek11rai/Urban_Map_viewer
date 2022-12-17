@@ -18,7 +18,7 @@ This repository lets you view the world map with different views of the map like
 Link : https://mappopulation.netlify.app/
 
 
-## 4. Screenshot of the Interface 
+## 3. Screenshot of the Interface 
 
 ### Dark Grey View
 <p align="center">
